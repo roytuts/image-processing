@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/haar-wavelet-transform-using-java/
+Please follow the tutorial https://roytuts.com/haar-wavelet-transform-using-java/
